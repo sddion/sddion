@@ -14,11 +14,10 @@
 
 Welcome to my GitHub repository! 
 
-I'm dion, a passionate White Hat and Software Developer on a mission to make the digital world safer. With a knack for code and a commitment to ethical hacking principles, I'm here to innovate, secure, and push boundaries.
+I'm deeply immersed in the world of cybersecurity and ethical hacking, exploring the intricate realms of software development. My journey involves harnessing the power of Debian and I'm passionate about pushing the boundaries of security.
 
 ## 🛡️ About Me
 
-- 💼 Freelance White Hat Hacker & Software Developer
 - 🔐 Cybersecurity Enthusiast
 - 🖥️ Proficient in Python, HTML, CSS, and Java
 - 🤖 Automation and Bot Fanatic
@@ -27,7 +26,6 @@ I'm dion, a passionate White Hat and Software Developer on a mission to make the
 ## 💻 What I Do
 
 - 🌐 Secure Networks and Systems
-- 🦠 Explore New Malware (for research purposes only)
 - 🔍 Analyze Remote Access Trojans (RATs)
 - 💪 Fortify Network Security
 - 🎭 Mastering Social Engineering
