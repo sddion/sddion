@@ -1,13 +1,11 @@
 # Hello, World! 👋
 - 👋 Hi, I’m @dion
   
-![White Hat Hacker](https://img.shields.io/badge/White%20Hat%20Hacker-%E2%9A%94%EF%B8%8F-4CAF50)
 ![Cybersecurity Enthusiast](https://img.shields.io/badge/Cybersecurity-Enthusiast-blue)
 ![Ethical Hacker](https://img.shields.io/badge/Ethical%20Hacker-Active-green)
 ![Script Kiddie](https://img.shields.io/badge/Script%20Kiddie-Exploring-orange)
 ![Software Developer](https://img.shields.io/badge/Software%20Developer-Coding-red)
 ![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-Passionate-yellow)
-![BackBox OS User](https://img.shields.io/badge/BackBox%20OS-Explorer-lightgrey)
 ![Learning Enthusiast](https://img.shields.io/badge/Learning-Open%20to%20New%20Challenges-brightgreen)
 ![Contributor to Cybersecurity](https://img.shields.io/badge/Contribution-Secure%20Digital%20Landscape-success)
 
