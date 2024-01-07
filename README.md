@@ -72,6 +72,6 @@
 ###
 
 <br clear="both">
-<img src="https://platane.github.io/snk/" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/d10xi24/d10xi24/output/snake.svg" alt="Snake animation" />
 
 ###
