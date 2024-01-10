@@ -1,5 +1,5 @@
 <h2 align="left">Hello World , Hi 👋 ! I am @dion</h2>
-<p>Mostly Skilled In</p>
+<p>Mostly Skilled & Knowledge With</p>
 
 ###
 
