@@ -52,10 +52,6 @@
 
 ###
 
-<img align="left" height="154" src="https://camo.githubusercontent.com/e14317be6c0aec048b63b78d8bef5cc0a16f799031071b0e0b8122354af9cdb6/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578636a646b644464324f4459796457633563476835636d786d61486c6e4d48633061586c714d57683159586f3462484e6d62586f7a65435a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f6c304979656865436859787832627944752f67697068792e676966"  />
-
-###
-
 <div align="left">
    <a href="https://www.instagram.com/dion.json/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
