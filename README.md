@@ -1,4 +1,4 @@
-<h2 align="left">Hello World , Hi 👋 ! I am @dion</h2>
+<h2 align="left">Hi 👋 ! I am @dion</h2>
 
 ###
 
