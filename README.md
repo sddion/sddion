@@ -28,6 +28,14 @@ If it can be automated, I'll automate it. If it can't, I'll still try.
 | [Badboy](https://github.com/sddion/Badboy) | PowerShell & automation scripts | Bash, PowerShell, attitude |
 
 ---
+## 🕵️‍♂️ Secret Projects (from @0xd3d53c)
+
+| Repo | What it does | Why it's legendary |
+|------|--------------|-------------------|
+| [dedsec-compute](https://github.com/0xd3d53c/dedsec-compute) | Automation & compute for hackers | Making clouds feel insecure since 2025 |
+| [Jerry_dRAT](https://github.com/0xd3d53c/Jerry_dRAT) | Remote Access Trojan (ethical hacking!) | Because every RAT deserves a name, and this one's Jerry |
+
+<sub>*Yes, I moonlight as a cyber wizard with a second account. All for science, memes, and the greater good!*</sub>
 
 ## 🧰 Toolbox of Wonders
 
