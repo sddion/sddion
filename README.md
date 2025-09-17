@@ -19,8 +19,8 @@ If it can be automated, I'll automate it. If it can't, I'll still try.
 
 | Repo | What it does | Why it's awesome |
 |------|--------------|-----------------|
-| [waVemusiC](https://github.com/sddion/waVemusiC) | Anime-inspired music player | Real-time sync + cloud + vibes |
-| [wave-music-player](https://github.com/sddion/wave-music-player) | Slick music app | Carousel, search, cross-device |
+| [Ragava](https://github.com/sddion/Ragava) | Anime-inspired music player | Real-time sync + cloud + vibes |
+| [wave-music-player](https://github.com/sddion/wave-music-player) | Slick music app | Carousel,cross-device | search, 
 | [v0-anima](https://github.com/sddion/v0-anima) | E-commerce for Assamese heritage | Secure, beautiful, cultural |
 | [voicelink](https://github.com/sddion/voicelink) | Encrypted voice calls | Twilio, browser & phone |
 | [Parola_](https://github.com/sddion/Parola_) | CLI tool for text wizardry | Parola, parola, parola! |
