@@ -1,4 +1,4 @@
-<h1 align="center">🌈 Hey there, I'm Dion! <img src="https://raw.githubusercontent.com/sddion/sddion/main/wave.gif" height="28"></h1>
+<h1 align="center">🌈 Hey there, I'm Sddion! <img src="https://raw.githubusercontent.com/sddion/sddion/main/wave.gif" height="28"></h1>
 <p align="center"><i>
 Fullstack dev, automation junkie, CLI wizard, and professional code wrangler.<br>
 If it can be automated, I'll automate it. If it can't, I'll still try.
