@@ -16,27 +16,6 @@ I'm a passionate full-stack developer from Assam, India, specializing in web app
 
 ---
 
-## 🚀 Featured Projects
-
-### [Voicelink](https://github.com/sddion/voicelink)
-**Secure Voice Communication System**
-- End-to-end encrypted voice calls using Twilio API
-- Browser and phone compatibility
-- Privacy-focused architecture
-
-### [Unix2usb](https://github.com/sddion/Unix2usb)
-**Unix System Utilities for USB**
-- Streamlined USB device management
-- Shell script automation for system administration
-
-### [Badboy](https://github.com/sddion/Badboy)
-**System Automation Scripts Collection**
-- PowerShell and Bash automation solutions
-- System administration and workflow optimization
-- Cross-platform scripting utilities
-
----
-
 ## 💻 Technical Skills
 
 **Languages**
