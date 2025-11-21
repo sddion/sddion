@@ -18,35 +18,11 @@ I'm a passionate full-stack developer from Assam, India, specializing in web app
 
 ## 🚀 Featured Projects
 
-### [Ragava](https://github.com/sddion/Ragava)
-**Real-time Music Streaming Platform**
-- Built with modern web technologies for seamless music playback
-- Features real-time synchronization and cloud integration
-- Responsive design with intuitive user interface
-
-### [Wave Music Player](https://github.com/sddion/wave-music-player)
-**Cross-Device Music Application**
-- Carousel-based UI with advanced search capabilities
-- Cross-device synchronization
-- Optimized performance and user experience
-
-### [v0-anima](https://github.com/sddion/v0-anima)
-**E-commerce Platform for Assamese Heritage Products**
-- Secure payment integration and user authentication
-- Culturally focused design celebrating Assamese craftsmanship
-- Full-stack implementation with modern security practices
-
 ### [Voicelink](https://github.com/sddion/voicelink)
 **Secure Voice Communication System**
 - End-to-end encrypted voice calls using Twilio API
 - Browser and phone compatibility
 - Privacy-focused architecture
-
-### [Parola_](https://github.com/sddion/Parola_)
-**CLI Text Processing Tool**
-- Command-line utility for text manipulation
-- Cross-platform compatibility
-- Efficient parsing and transformation capabilities
 
 ### [Unix2usb](https://github.com/sddion/Unix2usb)
 **Unix System Utilities for USB**
