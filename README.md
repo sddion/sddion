@@ -2,7 +2,7 @@
 
 **Full Stack Developer** | Automation Specialist | Open Source Contributor
 
-I'm a passionate full-stack developer from Assam, India, specializing in web applications, CLI tools, and automation solutions. I focus on building scalable, user-centric applications with modern technologies.
+I'm a passionate full-stack developer from India, specializing in web applications, CLI tools, and automation solutions. I focus on building scalable, user-centric applications with modern technologies.
 
 ---
 
@@ -12,7 +12,6 @@ I'm a passionate full-stack developer from Assam, India, specializing in web app
 - 🌱 Building real-time web applications, CLI tools, and automation frameworks
 - 💡 Passionate about creating intuitive user experiences and efficient workflows
 - 🎓 Focused on clean code, best practices, and continuous learning
-- 📍 Based in Assam, India
 
 ---
 
