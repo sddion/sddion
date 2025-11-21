@@ -28,7 +28,7 @@ I'm a passionate full-stack developer from India, specializing in web applicatio
 **Tools & Technologies**
 - Git/GitHub, VS Code
 - Apache, Arduino
-- API Integration (Twilio, REST APIs)
+- API Integration
 - Database Management
 
 **Specializations**
