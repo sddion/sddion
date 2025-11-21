@@ -46,9 +46,6 @@ I'm a passionate full-stack developer from India, specializing in web applicatio
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sddion&theme=github-compact" width="90%"/>
   
   <img src="https://streak-stats.demolab.com?user=sddion&locale=en&mode=daily&theme=github-compact&hide_border=true&border_radius=5" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=sddion&show_icons=true&count_private=true&theme=github-compact&hide_border=true" height="150"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sddion&layout=compact&theme=github-compact&hide_border=true" height="150"/>
 </div>
 
 ---
