@@ -1,4 +1,4 @@
-# Hi, I'm Sddion 👋
+# Hi, I'm Sanju 
 
 **Full Stack Developer** | Automation Specialist | Open Source Contributor
 
