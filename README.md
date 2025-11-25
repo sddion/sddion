@@ -8,10 +8,10 @@ I'm a passionate full-stack developer from India, specializing in web applicatio
 
 ## 🎯 About Me
 
-- 🔭 Full-stack developer with expertise in JavaScript/TypeScript, Python, and shell scripting
-- 🌱 Building real-time web applications, CLI tools, and automation frameworks
-- 💡 Passionate about creating intuitive user experiences and efficient workflows
-- 🎓 Focused on clean code, best practices, and continuous learning
+- Full-stack developer with expertise in JavaScript/TypeScript, Python, and shell scripting
+- Building real-time web applications, CLI tools, and automation frameworks
+- Passionate about creating intuitive user experiences and efficient workflows
+- Focused on clean code, best practices, and continuous learning
 
 ---
 
