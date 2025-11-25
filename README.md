@@ -6,7 +6,7 @@ I'm a passionate full-stack developer from India, specializing in web applicatio
 
 ---
 
-## 🎯 About Me
+## About Me
 
 - Full-stack developer with expertise in JavaScript/TypeScript, Python, and shell scripting
 - Building real-time web applications, CLI tools, and automation frameworks
@@ -15,7 +15,7 @@ I'm a passionate full-stack developer from India, specializing in web applicatio
 
 ---
 
-## 💻 Technical Skills
+## Technical Skills
 
 **Languages**
 - JavaScript/TypeScript, Python, Bash, PowerShell
@@ -40,7 +40,7 @@ I'm a passionate full-stack developer from India, specializing in web applicatio
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sddion&theme=github-compact" width="90%"/>
@@ -57,7 +57,7 @@ I'm a passionate full-stack developer from India, specializing in web applicatio
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <div align="left">
    <a href="https://www.instagram.com/wordswires/" target="_blank">
