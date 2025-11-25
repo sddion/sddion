@@ -48,6 +48,13 @@ I'm a passionate full-stack developer from India, specializing in web applicatio
   <img src="https://streak-stats.demolab.com?user=sddion&locale=en&mode=daily&theme=github-compact&hide_border=true&border_radius=5" height="150"/>
 </div>
 
+###
+
+<br clear="both">
+<img src="https://raw.githubusercontent.com/sddion/sddion/output/snake.svg" alt="Snake animation" />
+
+###
+
 ---
 
 ## 📫 Connect With Me
