@@ -38,7 +38,7 @@ Obsessed with clean architecture, performance, and developer ergonomics.
 
 ## 📬 Contact
 
-* Instagram: wordswires
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wordswires)
 
 ---
 
