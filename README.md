@@ -24,6 +24,17 @@ Obsessed with clean architecture, performance, and developer ergonomics.
 
 ---
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sddion&theme=github-dark" width="90%"/>
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=sddion&theme=github-dark&hide_border=true" height="150"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sddion/sddion/output/snake.svg" alt="snake animation"/>
+</div>
 
 ## 📬 Contact
 
