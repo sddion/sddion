@@ -11,24 +11,16 @@ Obsessed with clean architecture, performance, and developer ergonomics.
 ## ⚙️ Stack
 
 **Languages**
-`TypeScript` `JavaScript` `Python` `Bash` `PowerShell`
+`TypeScript` `JavaScript` `Python` `Bash` `PowerShell` `C/C++`
 
 **Backend**
 `Node.js` `FastAPI` `REST APIs`
 
 **Frontend**
-`Angular` `HTML` `CSS` `React`
+`Angular` `HTML` `CSS` `React` `TailwindCSS`
 
-**Infra / Tools**
-`Git` `GitHub` `Apache` `Linux` `VS Code`
-
----
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sddion&theme=github-dark" width="90%"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=sddion&theme=github-dark&hide_border=true" height="150"/>
-</div>
+**Infra**
+`Git` `GitHub` `Apache` `Linux` `VS Code` `Vercel`
 
 ---
 
